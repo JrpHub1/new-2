@@ -1,4 +1,3 @@
 # Do it yourself
 
-adder()
-
+Python
